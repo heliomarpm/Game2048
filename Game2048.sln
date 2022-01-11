@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game2048", "Game2048\Game2048.csproj", "{CC6C4E91-2908-49CE-BDE4-80CAB7E76CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC6C4E91-2908-49CE-BDE4-80CAB7E76CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6C4E91-2908-49CE-BDE4-80CAB7E76CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6C4E91-2908-49CE-BDE4-80CAB7E76CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6C4E91-2908-49CE-BDE4-80CAB7E76CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC209082-A955-483F-A6A3-45D6ABF3949C}
+	EndGlobalSection
+EndGlobal
